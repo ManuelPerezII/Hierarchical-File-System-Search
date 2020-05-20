@@ -1,0 +1,38 @@
+C:\Users\U012MXP\source\repos\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.exe
+C:\Users\U012MXP\source\repos\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.deps.json
+C:\Users\U012MXP\source\repos\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.runtimeconfig.json
+C:\Users\U012MXP\source\repos\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.runtimeconfig.dev.json
+C:\Users\U012MXP\source\repos\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.dll
+C:\Users\U012MXP\source\repos\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.pdb
+C:\Users\U012MXP\source\repos\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.csprojAssemblyReference.cache
+C:\Users\U012MXP\source\repos\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.csproj.CoreCompileInputs.cache
+C:\Users\U012MXP\source\repos\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.AssemblyInfoInputs.cache
+C:\Users\U012MXP\source\repos\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.AssemblyInfo.cs
+C:\Users\U012MXP\source\repos\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.dll
+C:\Users\U012MXP\source\repos\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.pdb
+C:\Users\U012MXP\source\repos\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.genruntimeconfig.cache
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.exe
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.deps.json
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.runtimeconfig.json
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.runtimeconfig.dev.json
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.dll
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.pdb
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.csproj.CoreCompileInputs.cache
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.AssemblyInfoInputs.cache
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.AssemblyInfo.cs
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.dll
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.pdb
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.genruntimeconfig.cache
+C:\Users\U012MXP\source\repos\Final Interview Exam\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.csprojAssemblyReference.cache
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.exe
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.deps.json
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.runtimeconfig.json
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.runtimeconfig.dev.json
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.dll
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\bin\Debug\netcoreapp3.1\ManuelPerezExam.pdb
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.csproj.CoreCompileInputs.cache
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.AssemblyInfoInputs.cache
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.AssemblyInfo.cs
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.dll
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.pdb
+C:\Users\U012MXP\Documents\GitHub\HierchicalFileSystemSearch\ManuelPerezExam\obj\Debug\netcoreapp3.1\ManuelPerezExam.genruntimeconfig.cache
